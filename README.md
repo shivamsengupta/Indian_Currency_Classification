@@ -35,3 +35,7 @@ Consider the following for future improvements:
 - Deploying the models in practical scenarios, such as currency counting machines or mobile applications.
 
 
+### Demo Video link
+https://github.com/shivamsengupta/Indian_Currency_Classification/blob/main/video.mp4
+
+

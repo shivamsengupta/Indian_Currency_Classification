@@ -36,6 +36,6 @@ Consider the following for future improvements:
 
 
 ### Demo Video link
-https://github.com/shivamsengupta/Indian_Currency_Classification/blob/main/video.mp4
+https://drive.google.com/file/d/1jpWyMvl-811LbsdL67JIxzJ3k3TObRcn/view?usp=sharing
 
 

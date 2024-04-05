@@ -21,9 +21,6 @@ Welcome to the Indian Currency Note Classification project! This project focuses
   - YOLOv8m-cls achieved an impressive testing accuracy of 95.5%.
   - Testing was performed on a set of 900 unseen images.
 
-## Research Paper Publication
-
-- **Achievement**: The project's results were submitted for research paper publication, showcasing the successful application of deep learning for Indian currency note classification.
 
 
 ## Future Work
